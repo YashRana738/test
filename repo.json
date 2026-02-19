@@ -1,0 +1,9 @@
+{
+    "name": "AnimeKai Repository",
+    "id": "com.animekai.repo",
+    "description": "Unofficial AnimeKai provider for SkyStream",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/USER/AnimeKaiRepo/main/plugins.json"
+    ]
+}
