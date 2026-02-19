@@ -4,6 +4,6 @@
     "description": "Unofficial AnimeKai provider for SkyStream",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/USER/AnimeKaiRepo/main/plugins.json"
+        "https://raw.githubusercontent.com/YashRana738/test/main/plugins.json"
     ]
 }

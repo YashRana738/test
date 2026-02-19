@@ -1,13 +1,17 @@
 [
-  {
-    "name": "AnimeKai",
-    "internalName": "AnimeKai",
-    "url": "https://raw.githubusercontent.com/USER/AnimeKaiRepo/main/plugins/animekai.js",
-    "icon": "https://anikai.to/img/logo.png",
-    "version": 1,
-    "description": "Watch anime from AnimeKai.to",
-    "authors": ["SkyStream Port"],
-    "language": "en",
-    "types": ["Anime"]
-  }
+    {
+        "name": "AnimeKai",
+        "internalName": "AnimeKai",
+        "url": "https://raw.githubusercontent.com/YashRana738/test/main/plugins/animekai.js",
+        "icon": "https://raw.githubusercontent.com/YashRana738/test/main/icon.png",
+        "version": 1,
+        "description": "Watch anime from AnimeKai.to",
+        "authors": [
+            "SkyStream Port"
+        ],
+        "language": "en",
+        "types": [
+            "Anime"
+        ]
+    }
 ]
